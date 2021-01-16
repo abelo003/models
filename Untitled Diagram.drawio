@@ -1,20 +1,20 @@
-<mxfile modified="2021-01-16T03:43:27.433Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="9A4hdDm6C-KRy3yNg2vN" version="14.2.4" type="github">
+<mxfile modified="2021-01-16T03:45:49.947Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="_CW8e1sfeYCsHB1Q2hrO" version="14.2.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UEzPUAAOIrF-is8g5C7q-107" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="240" width="560" height="520" as="geometry" />
+          <mxGeometry x="440" y="244.5" width="560" height="520" as="geometry" />
         </mxCell>
         <mxCell id="WdOwFS36043pemjJ3od9-1" value="&lt;div&gt;Nginx Server&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="474.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WdOwFS36043pemjJ3od9-3" value="&lt;div&gt;Front End App&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="319" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="323.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WdOwFS36043pemjJ3od9-4" value="Spring Boot App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="624.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WdOwFS36043pemjJ3od9-5" value="&lt;div&gt;Android App&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;" vertex="1" parent="1">
           <mxGeometry y="600" width="73.44" height="108" as="geometry" />
@@ -27,19 +27,19 @@
         </mxCell>
         <mxCell id="WdOwFS36043pemjJ3od9-21" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WdOwFS36043pemjJ3od9-1" target="WdOwFS36043pemjJ3od9-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="510" as="sourcePoint" />
-            <mxPoint x="350" y="460" as="targetPoint" />
+            <mxPoint x="540" y="514.5" as="sourcePoint" />
+            <mxPoint x="590" y="464.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="349" />
+              <mxPoint x="580" y="353.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WdOwFS36043pemjJ3od9-22" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WdOwFS36043pemjJ3od9-1" target="WdOwFS36043pemjJ3od9-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="475" as="sourcePoint" />
-            <mxPoint x="520" y="354" as="targetPoint" />
+            <mxPoint x="550" y="479.5" as="sourcePoint" />
+            <mxPoint x="760" y="358.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="650" />
+              <mxPoint x="580" y="654.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -47,6 +47,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="510" as="sourcePoint" />
             <mxPoint x="350" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="490" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WdOwFS36043pemjJ3od9-24" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WdOwFS36043pemjJ3od9-1" target="WdOwFS36043pemjJ3od9-8">
@@ -59,7 +62,13 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="510" as="sourcePoint" />
             <mxPoint x="80" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="520" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WdOwFS36043pemjJ3od9-26" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;Internet&lt;/b&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="444.5" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
