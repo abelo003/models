@@ -1,4 +1,4 @@
-<mxfile modified="2021-01-16T03:42:55.363Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="LDGqiks9ScJ3hSNLTSQl" version="14.2.4" type="github">
+<mxfile modified="2021-01-16T03:43:27.433Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="9A4hdDm6C-KRy3yNg2vN" version="14.2.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="200" y="240" width="560" height="520" as="geometry" />
         </mxCell>
         <mxCell id="WdOwFS36043pemjJ3od9-1" value="&lt;div&gt;Nginx Server&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WdOwFS36043pemjJ3od9-3" value="&lt;div&gt;Front End App&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="319" width="120" height="60" as="geometry" />
@@ -30,7 +30,7 @@
             <mxPoint x="300" y="510" as="sourcePoint" />
             <mxPoint x="350" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="310" y="350" />
+              <mxPoint x="340" y="349" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -39,7 +39,7 @@
             <mxPoint x="310" y="475" as="sourcePoint" />
             <mxPoint x="520" y="354" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="310" y="650" />
+              <mxPoint x="340" y="650" />
             </Array>
           </mxGeometry>
         </mxCell>
