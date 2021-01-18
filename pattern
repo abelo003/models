@@ -1,0 +1,1 @@
+console: "%d{yyyy-MM-dd HH:mm:ss.SSS} %highlight(%-5level [%thread] [%X{X-B3-TraceId},%X{X-B3-SpanId},%X{X-Span-Export}]) %cyan(%C{1}:%L) - %msg%n%throwable"
