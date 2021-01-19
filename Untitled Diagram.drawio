@@ -1,4 +1,4 @@
-<mxfile modified="2021-01-16T03:45:49.947Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="_CW8e1sfeYCsHB1Q2hrO" version="14.2.4" type="github">
+<mxfile modified="2021-01-19T05:54:27.452Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="nk81I9NO8n02pYi5FxX-" version="14.2.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="UEzPUAAOIrF-is8g5C7q-107" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="244.5" width="560" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="WdOwFS36043pemjJ3od9-1" value="&lt;div&gt;Nginx Server&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WdOwFS36043pemjJ3od9-1" value="&lt;div&gt;Nginx Server&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(reserve proxy)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="474.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WdOwFS36043pemjJ3od9-3" value="&lt;div&gt;Front End App&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
