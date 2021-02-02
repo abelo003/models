@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-02T22:07:10.741Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="Q12Q2AkAwWKcqvrPBd2f" version="14.2.4" type="github">
+<mxfile modified="2021-02-02T22:07:37.642Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="DpTnaKtsZ6z-UYrJXfHk" version="14.2.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -70,18 +70,6 @@
         <mxCell id="WdOwFS36043pemjJ3od9-26" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;Internet&lt;/b&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="444.5" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WdOwFS36043pemjJ3od9-27" value="Spring Boot App" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="540" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WdOwFS36043pemjJ3od9-28" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="WdOwFS36043pemjJ3od9-27" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="534.5" as="sourcePoint" />
-            <mxPoint x="790" y="654.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="610" y="570" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WdOwFS36043pemjJ3od9-29" value="&lt;div&gt;Redis BD&lt;/div&gt;&lt;div&gt;3 réplicas (pro)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="961" y="540" width="120" height="60" as="geometry" />
         </mxCell>
@@ -92,23 +80,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="880" y="657" as="sourcePoint" />
             <mxPoint x="930" y="610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WdOwFS36043pemjJ3od9-33" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="WdOwFS36043pemjJ3od9-27" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="660" as="sourcePoint" />
-            <mxPoint x="961" y="656.8404255319147" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="880" y="590" />
-              <mxPoint x="920" y="590" />
-              <mxPoint x="920" y="657" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WdOwFS36043pemjJ3od9-34" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="WdOwFS36043pemjJ3od9-27" target="WdOwFS36043pemjJ3od9-29" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="585" as="sourcePoint" />
-            <mxPoint x="961" y="656.8404255319147" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WdOwFS36043pemjJ3od9-35" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="WdOwFS36043pemjJ3od9-4" target="WdOwFS36043pemjJ3od9-29" edge="1">
